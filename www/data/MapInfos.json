@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP Community","order":1,"parentId":0,"scrollX":772,"scrollY":454},
+{"id":2,"expanded":false,"name":"MAP Recycle Station","order":2,"parentId":1,"scrollX":772,"scrollY":454},
+{"id":3,"expanded":false,"name":"MAP Grocery Store","order":7,"parentId":1,"scrollX":772,"scrollY":454},
+{"id":4,"expanded":false,"name":"MAP Ship Station","order":3,"parentId":1,"scrollX":772,"scrollY":454},
+{"id":5,"expanded":false,"name":"MAP Doggy's Mansion","order":4,"parentId":1,"scrollX":772,"scrollY":454},
+{"id":6,"expanded":true,"name":"background","order":5,"parentId":1,"scrollX":772,"scrollY":454},
+{"id":7,"expanded":false,"name":"doggy's room","order":6,"parentId":1,"scrollX":772,"scrollY":454},
+{"id":8,"expanded":false,"name":"next level","order":8,"parentId":1,"scrollX":772,"scrollY":454}
+]
